@@ -1,0 +1,27 @@
+
+
+.element-1 {
+    display: flex;
+    flex-wrap: wrap;
+	max-width: 70%;
+	margin: auto;
+
+}
+.element-1 a {
+    width: 24%;
+    box-sizing: border-box;
+    padding: 5px;
+	margin: auto;
+	transition: 0.8s;
+   
+}
+.element-1 a:hover{
+	transform: scale(1.1);
+    transition: 1s;
+	
+}
+.element-1 img {
+    width: 100%;
+    display: flex;
+	
+}
